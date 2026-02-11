@@ -43,12 +43,13 @@ Welcome to Week 3! This assignment is your first JavaScript code in the Copilot 
 <!-- TODO: Add your sample output here! Get creative with how you present it. -->
 
 ```text
- _________________________
-< Welcome to JavaScript! >
- -------------------------
+ ______________________________________________________________ ________
+< Good evening! Don't cry because it's over, smile because it happened. >
+ -----------------------------------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
+(I think the prettier extension may be messing up the format of this, but in the terminal it looks normal.)
